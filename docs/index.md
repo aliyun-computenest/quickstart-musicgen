@@ -1,4 +1,4 @@
-# Image to MusicGen社区版
+# MusicGen社区版
 
 ## 概述
 
